@@ -1,6 +1,6 @@
 {
   "name": "@immerx/observable",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Observable based middleware for Immerx",
   "main": "cjs/index.js",
   "module": "index.js",
